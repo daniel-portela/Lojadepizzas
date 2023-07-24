@@ -1,3 +1,4 @@
+// Adicionando elementos
 let cart = [];
 let modalQt = 1;
 let modalKey = 0;
